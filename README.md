@@ -1,5 +1,5 @@
 - 👋 Hey folks! I am Sayantan Saha
-- 👀 I’m interested in CP, web development and eager to learn new tools.
+- 👀 I’m interested in CP, web development and eager to learn new tools and contribute to OpenSource.
 - 🌱 I’m currently progressing myself on the backend part.
 - 📫 Reach me @ https://www.linkedin.com/in/sayantan-saha-3565822a9/
 
