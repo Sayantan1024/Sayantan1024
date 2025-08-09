@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on Cyber Security and Frontend Development<br>🤝 I’m looking for help with Competitive Programming<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about modern tech, cyber security and development<br>⚡ I like singing, reading books and painting
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/._witcher_.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SayantanSaha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29851469) 
 
